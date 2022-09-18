@@ -1,12 +1,8 @@
-# bookspace
-
-A book-thing repository.
-
----
-
-## 拾花
+# 拾花
 
 *读书行花田，弯腰拾闲情*
+
+---
 
 ### 沈复
 
@@ -27,9 +23,3 @@ A book-thing repository.
 ### 加西亚·马尔克斯
 
 - [百年孤独](shihua/bainiangudu.md)
-
-## 破卷
-
-*读书破卷，读一本破一本*
-
-- [人类简史](pojuan/renleijianshi.md)

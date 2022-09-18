@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>bookspace</title>
+  <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> -->
+  <meta name="description" content="A personal notespace">
+  <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"> -->
+  <link rel="shortcut icon" href="favicon.ico">
+  <!-- <link rel="stylesheet" href="assets/css/vue.min.css"> -->
+  <!-- <link rel="stylesheet" href="assets/css/buble.min.css"> -->
+  <!-- Themes (light + dark) -->
+  <link rel="stylesheet" media="(prefers-color-scheme: light)" href="assets/css/themeable/theme-simple.css">
+  <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="assets/css/themeable/theme-simple-dark.css">
+  <link rel="stylesheet" href="assets/css/katex.min.css">
+  <link rel="stylesheet" href="assets/css/mermaid.min.css">
+</head>
+
+<body>
+  <div id="app">Loading</div>
+  <script>
+    window.$docsify = {
+      name: 'bookspace',
+      coverpage: true,
+      // 自定义主题色
+      themeColor: '#448aff',
+      // 自动显示文档顶部
+      auto2top: true,
+      // 最大支持渲染的标题层级，默认情况下会抓取文档中所有标题渲染成目录
+      maxLevel: 1,
+      // 子标题最大显示层级，自定义侧边栏后默认不会再生成，因此需要手动指定
+      subMaxLevel: 6,
+      // 显示侧边栏
+      loadSidebar: true,
+      // 显示导航栏
+      loadNavbar: false,
+      // 重定向自定义侧边栏和导航栏
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md',
+        // '/.*/_navbar.md': '/_navbar.md',
+      },
+      search: {
+        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+        paths: 'auto',
+
+        // 支持本地化
+        placeholder: {
+          '/': '搜索'
+        },
+
+        // 支持本地化
+        noData: {
+          '/': '找不到结果'
+        },
+
+        // 搜索标题的最大层级, 1 - 6
+        depth: 6
+      },
+      copyCode: {
+        buttonText: {
+          '/': '复制'
+        },
+        errorText: {
+          '/': '错误'
+        },
+        successText: {
+          '/': '已复制'
+        }
+      },
+      count: {
+        countable: true,
+        fontsize: '0.9em',
+        color: 'rgb(90,90,90)',
+        language: 'chinese'
+      }
+    }
+
+    // 支持离线模式
+    if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('assets/js/sw.js')
+    }
+  </script>
+  <!-- Docsify -->
+  <script src="assets/js/docsify.min.js"></script>
+
+  <!-- themeable -->
+  <script src="assets/js/docsify-themeable.min.js"></script>
+
+  <!-- prismjs -->
+  <script src="assets/js/prism-java.min.js"></script>
+  <script src="assets/js/prism-scala.min.js"></script>
+  <script src="assets/js/prism-python.min.js"></script>
+  <script src="assets/js/prism-sql.min.js"></script>
+  <script src="assets/js/prism-json.min.js"></script>
+
+  <script src="assets/js/prism-bash.min.js"></script>
+  <script src="assets/js/prism-shell-session.min.js"></script>
+
+  <script src="assets/js/prism-less.min.js"></script>
+  <script src="assets/js/prism-scss.min.js"></script>
+
+  <script src="assets/js/prism-markdown.min.js"></script>
+  <script src="assets/js/prism-properties.min.js"></script>
+  <script src="assets/js/prism-ini.min.js"></script>
+
+  <!-- plugins -->
+  <script src="assets/js/search.min.js"></script>
+  <script src="assets/js/zoom-image.min.js"></script>
+  <script src="assets/js/docsify-katex.js"></script>
+  <script src="assets/js/docsify-copy-code.min.js"></script>
+  <script src="assets/js/countable.js"></script>
+  <script src="assets/js/emoji.min.js"></script>
+</body>
+
+</html>
