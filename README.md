@@ -1,9 +1,5 @@
 # bookspace
 
-A book-thing repository.
-
----
-
 ## 拾花
 
 *读书行花田，弯腰拾闲情*
