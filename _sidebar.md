@@ -1,4 +1,4 @@
-- 拾花
+- 文学类
 
     - [浮生六记](books/fushengliuji.md "浮生六记")
     - [素履之往](books/sulvzhiwanag.md "素履之往")
@@ -10,6 +10,7 @@
     - [百年孤独](books/bainiangudu.md "百年孤独")
     - [活着](books/huozhe.md "活着")
 
-- 破卷
+- 知识类
 
     - [人类简史](books/renleijianshi.md "人类简史")
+    - [幸福之路](books/xingfuzhilu.md "幸福之路")

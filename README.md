@@ -33,3 +33,7 @@
 ### 尤瓦尔·赫拉利
 
 - [人类简史](books/renleijianshi.md)
+
+### 伯特兰·罗素
+
+- [幸福之路](books/xingfuzhilu.md)
