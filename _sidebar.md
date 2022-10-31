@@ -9,6 +9,7 @@
     - [围城](books/weicheng.md "围城")
     - [百年孤独](books/bainiangudu.md "百年孤独")
     - [活着](books/huozhe.md "活着")
+    - [卡拉马佐夫兄弟](books/kalamazuofuxiongdi.md "卡拉马佐夫兄弟")
 
 - 知识类
 
