@@ -10,8 +10,11 @@
     - [百年孤独](books/bainiangudu.md "百年孤独")
     - [活着](books/huozhe.md "活着")
     - [卡拉马佐夫兄弟](books/kalamazuofuxiongdi.md "卡拉马佐夫兄弟")
+    - [今生只活得深情二字](books/jinshengzhihuodeshengqingerzi.md "今生只活得深情二字")
+    - [牡丹亭](books/mudanting.md "牡丹亭")
 
 - 知识类
 
     - [人类简史](books/renleijianshi.md "人类简史")
     - [幸福之路](books/xingfuzhilu.md "幸福之路")
+    - [蛤蟆先生去看心理医生](books/counselling-for-toads-a-psychological-adventure.md)

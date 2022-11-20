@@ -4,6 +4,10 @@
 
 *读书行花田，弯腰拾闲情*
 
+### 汤显祖
+
+- [牡丹亭](books/mudanting.md)
+
 ### 沈复
 
 - [浮生六记](books/fushengliuji.md)
@@ -32,6 +36,10 @@
 
 - [卡拉马佐夫兄弟](books/kalamazuofuxiongdi.md)
 
+### 梁实秋
+
+- [今生只活得深情二字](books/jinshengzhihuodeshengqingerzi.md)
+
 ## 知识类
 
 ### 尤瓦尔·赫拉利
@@ -41,3 +49,7 @@
 ### 伯特兰·罗素
 
 - [幸福之路](books/xingfuzhilu.md)
+
+### 罗伯特·戴博德
+
+- [蛤蟆先生去看心理医生](books/counselling-for-toads-a-psychological-adventure.md)
