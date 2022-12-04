@@ -1,7 +1,0 @@
-# 幸福之路
-
-![幸福之路](../assets/images/the-conquest-of-happiness.png)
-
-不幸福的原因
-
-幸福的原因

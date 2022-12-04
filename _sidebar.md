@@ -1,20 +1,27 @@
-- 文学类
+- 文学
 
-    - [浮生六记](books/fushengliuji.md "浮生六记")
-    - [素履之往](books/sulvzhiwanag.md "素履之往")
-    - [即兴判断](books/jixingpanduan.md "即兴判断")
-    - [琼美卡随想录](books/qiongmeikasuixianglu.md "琼美卡随想录")
-    - [云雀叫了一整天](books/yunquejiaoleyizhengtian.md "云雀叫了一整天")
-    - [写在人生边上](books/xiezairenshengbianshang.md "写在人生边上")
-    - [围城](books/weicheng.md "围城")
-    - [百年孤独](books/bainiangudu.md "百年孤独")
-    - [活着](books/huozhe.md "活着")
-    - [卡拉马佐夫兄弟](books/kalamazuofuxiongdi.md "卡拉马佐夫兄弟")
-    - [今生只活得深情二字](books/jinshengzhihuodeshengqingerzi.md "今生只活得深情二字")
-    - [牡丹亭](books/mudanting.md "牡丹亭")
+    - [写在人生边上](books/literature/chinese/1-1.md)
+    - [围城](books/literature/chinese/1-2.md)
+    - [素履之往](books/literature/chinese/2-1.md)
+    - [即兴判断](books/literature/chinese/2-2.md)
+    - [琼美卡随想录](books/literature/chinese/2-3.md)
+    - [云雀叫了一整天](books/literature/chinese/2-4.md)
+    - [今生只活得深情二字](books/literature/chinese/3-1.md)
+    - [活着](books/literature/chinese/4-1.md)
+    - [牡丹亭](books/literature/chinese/5-1.md)
+    - [浮生六记](books/literature/chinese/6-1.md)
+    - [百年孤独](books/literature/colombia/1-1.md)
+    - [卡拉马佐夫兄弟](books/literature/russia/1-1.md)
 
-- 知识类
+- 历史
 
-    - [人类简史](books/renleijianshi.md "人类简史")
-    - [幸福之路](books/xingfuzhilu.md "幸福之路")
-    - [蛤蟆先生去看心理医生](books/counselling-for-toads-a-psychological-adventure.md)
+    - [人类简史](books/history/1-1.md)
+    - [中国历代政治得失](books/history/chinese/1-1.md)
+
+- 哲学
+
+    - [幸福之路](books/philosophy/1-1.md)
+
+- 心理学
+
+    - [蛤蟆先生去看心理医生](books/psychology/1-1.md)
