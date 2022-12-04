@@ -89,19 +89,26 @@
           });
         }
       ],
+
       markdown: {
         renderer: {
           code: function (code, lang) {
-            var html = '';
-            // 搜索 mermaid 代码
-            if (code.match(/^sequenceDiagram/) || code.match(/^graph/) || code.match(/^gantt/)) {
-              // 生成一个 mermaid 图表的容器
-              html = '<div class="mermaid">' + code + '</div>';
+            if (lang === "mermaid") {
+              return (
+                '<div class="mermaid">' + code + '</div>'
+              );
             }
-            // 源码自带的 Prism 高亮插件
-            var hl = Prism.highlight(code, Prism.languages[lang] || Prism.languages.markup)
-            // 将图表的容器添加到代码之前
-            return html + '<pre v-pre data-lang="' + lang + '"><code class="lang-' + lang + '">' + hl + '</code></pre>'
+            return this.origin.code.apply(this, arguments);
+            //     var html = '';
+            //     // 搜索 mermaid 代码
+            //     if (code.match(/^sequenceDiagram/) || code.match(/^graph/) || code.match(/^gantt/)) {
+            //       // 生成一个 mermaid 图表的容器
+            //       html = '<div class="mermaid">' + code + '</div>';
+            //     }
+            //     // 源码自带的 Prism 高亮插件
+            //     var hl = Prism.highlight(code, Prism.languages[lang] || Prism.languages.markup)
+            //     // 将图表的容器添加到代码之前
+            //     return html + '<pre v-pre data-lang="' + lang + '"><code class="lang-' + lang + '">' + hl + '</code></pre>'
           }
         }
       }
