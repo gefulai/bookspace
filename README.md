@@ -1,5 +1,25 @@
 # bookspace
 
+## 经济
+
+- [八次危机](books/economy/chinese/1-1.md)
+
+## 历史
+
+### 尤瓦尔·赫拉利
+
+- [人类简史](books/history/1-1.md)
+
+### 钱穆
+
+- [中国历代政治得失](books/history/chinese/1-1.md)
+
+## 哲学
+
+### 伯特兰·罗素
+
+- [幸福之路](books/philosophy/1-1.md)
+
 ## 文学
 
 ### 钱钟书
@@ -37,22 +57,6 @@
 ### 陀思妥耶夫斯基
 
 - [卡拉马佐夫兄弟](books/literature/russia/1-1.md)
-
-## 历史
-
-### 尤瓦尔·赫拉利
-
-- [人类简史](books/history/1-1.md)
-
-### 钱穆
-
-- [中国历代政治得失](books/history/chinese/1-1.md)
-
-## 哲学
-
-### 伯特兰·罗素
-
-- [幸福之路](books/philosophy/1-1.md)
 
 ## 心理学
 

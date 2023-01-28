@@ -1,3 +1,16 @@
+- 经济
+
+    - [八次危机](books/economy/chinese/1-1.md)
+
+- 历史
+
+    - [人类简史](books/history/1-1.md)
+    - [中国历代政治得失](books/history/chinese/1-1.md)
+
+- 哲学
+
+    - [幸福之路](books/philosophy/1-1.md)
+
 - 文学
 
     - [写在人生边上](books/literature/chinese/1-1.md)
@@ -12,15 +25,6 @@
     - [浮生六记](books/literature/chinese/6-1.md)
     - [百年孤独](books/literature/colombia/1-1.md)
     - [卡拉马佐夫兄弟](books/literature/russia/1-1.md)
-
-- 历史
-
-    - [人类简史](books/history/1-1.md)
-    - [中国历代政治得失](books/history/chinese/1-1.md)
-
-- 哲学
-
-    - [幸福之路](books/philosophy/1-1.md)
 
 - 心理学
 
