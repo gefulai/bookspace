@@ -29,3 +29,7 @@
 - 心理学
 
     - [蛤蟆先生去看心理医生](books/psychology/1-1.md)
+
+- 实用
+
+    - [刻意练习](books/practical/1-1.md)
